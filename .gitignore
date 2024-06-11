@@ -1,6 +1,9 @@
+# Byte-compiled / optimized / DLL files
 .idea
 pythonproject/
+
 # Byte-compiled / optimized / DLL files
+
 __pycache__/
 *.py[cod]
 *$py.class
@@ -40,6 +43,7 @@ coverage.xml
 .hypothesis/
 
 # Jupyter Notebook
+
 .ipynb_checkpoints
 
 # pyenv
@@ -83,7 +87,7 @@ dmypy.json
 .vscode/
 
 # Local and JetBrains IDE settings
-.idea/
+
 *.sublime-project
 *.sublime-workspace
 
@@ -98,4 +102,5 @@ dmypy.json
 # Operating system files
 .DS_Store
 Thumbs.db
+
 
